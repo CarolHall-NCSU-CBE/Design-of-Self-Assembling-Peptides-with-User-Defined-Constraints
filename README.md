@@ -20,8 +20,8 @@ This directory contains the initial structural templates used in the PepAD desig
 
 ### /DMD simulations/
 This directory contains the DMD simulation results for Pep-1 to Pep-12 at 316, 328, 340 K.
-Simulation at each temperature shows the (1) final structure ('run0034.pdb'), (2) a snapshot image ('run0034_1.png'), and (3) the β-sheet content change vs. time ('bsheetvst.txt')
+For each temperature, the result includes the (1) final structure ('run0034.pdb'), (2) a snapshot image ('run0034_1.png'), and (3) the β-sheet content change vs. time ('bsheetvst.txt')
 
 ### /MD simulations/
-This directory contains the MD simulation results for Pep-1 to Pep-12 at T = 310.
-Each folder has (1) a final structure file, (2) RMSD change vs. time ('rmsd-mass.txt'), (3) secondary structure change vs. time ('secondary structure.txt').
+This directory contains atomistic MD simulation results for Pep-1 to Pep-12 at T = 310.
+Each folder includes (1) a final structure file, (2) RMSD change vs. time ('rmsd-mass.txt'), (3) secondary structure change vs. time ('secondary structure.txt').
